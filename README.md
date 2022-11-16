@@ -1,4 +1,6 @@
-# States
+# Git Tutorial
+
+## File/Change States
 
 
 ![circle](https://user-images.githubusercontent.com/7770893/201979767-1fc77e18-0e27-41de-a91c-be82327afc28.png)
@@ -10,8 +12,7 @@
 - **committed:** new files or changes that have been committed (e.g. using `git commit` command)
 - **published:** pushed commits (using `git push` command)
  
-
-# Git Commands
+ 
 ### How git commands affect files in git 
 Follow the colors to see how you can traverse between different states.
 
