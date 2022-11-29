@@ -2,8 +2,8 @@
 
 ## File/Change States
 
+![circle](https://user-images.githubusercontent.com/7770893/204490406-c9deb570-6a5a-41ed-9312-8a24297d0c24.png)
 
-![circle](https://user-images.githubusercontent.com/7770893/201979767-1fc77e18-0e27-41de-a91c-be82327afc28.png)
 
 - **untracked:** new files in a directory that has not been tracked (excluding ignored files)
 - **unstaged:** new changes on tracked files that have not been staged or stashed
