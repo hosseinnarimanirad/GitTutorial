@@ -7,7 +7,7 @@
 
 - **untracked:** new files in a directory that has not been tracked (excluding ignored files)
 - **unstaged:** new changes on tracked files that have not been staged or stashed
-- **staged (new file):** untracked files that have already been staged (e.g. using `git add` command)
+- **staged (new file):** staged new files that does not exists in local or remote repository (e.g. using `git add` command)
 - **staged:** staged changes (excluding new files) (e.g. using `git add` command)
 - **committed:** new files or changes that have been committed (e.g. using `git commit` command)
 - **published:** pushed commits (using `git push` command)
